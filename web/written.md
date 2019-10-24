@@ -18,7 +18,7 @@ console.log(regexp.test(str));	//false
 console.log(regexp.test(str));	//true
 console.log(regexp.test(str));	//false
 ```
-10. 以下是一個網頁，請問如何以jQuery改變序號
+10. 以下是一個網頁，請問如何以jQuery改變序號(此題用js程式碼作答)：
 ```html
 <html>
 	<head>
@@ -58,7 +58,11 @@ console.log(regexp.test(str));	//false
 	</body>
 </html>
 ```
+11. 請舉例兩個將網頁內容水平、垂直置中的方法(此題用程式碼作答)
+12. 請問JS是非同步程式語言還是同步程式語言？請解釋兩者差異
+13. 請問列出HTML tag 中 <a> 的三種用法
+14. 請舉例一個JS前端框架
 
 ---
 
-手寫題到此結束，請繼續作答實作題
+筆試題到此結束，請繼續作答實作題
