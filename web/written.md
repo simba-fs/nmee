@@ -9,7 +9,7 @@
 6. 接上題，請說明此API的使用方法
 7. 請比較瀏覽器環境以及node環境的差異(至少三項)
 8. 請比較`var const let`差異及使用時機
-9. 狸貓寫了以下程式碼，發現每次執行比對結果不同，請提出解決方法:
+9. 狸貓寫了以下程式碼，發現每次執行比對結果不同，請提出解決方法(此題用js程式碼作答):
 ```js
 var regexp = /rac/g
 var str = 'raccoon is cute';
@@ -18,3 +18,47 @@ console.log(regexp.test(str));	//false
 console.log(regexp.test(str));	//true
 console.log(regexp.test(str));	//false
 ```
+10. 以下是一個網頁，請問如何以jQuery改變序號
+```html
+<html>
+	<head>
+		<title>喜來登生日餐券</title>
+		<style>
+			.coupon{
+				margin: 30px;
+				padding: 10px;
+				background-color: rgba(240,240,240,240);
+			}
+			
+			.row{
+				display: grid;
+				grid-template-columns: 50% 50%;
+			}
+		</style>
+	</head>
+	<body>
+	 	<div class="coupon">
+			<div class="title">
+				<a href="http://www.sheratongrandtaipei.com/restaurant.php"<h1>喜來登</h1></a>
+				<h2>SHERATON</h2>
+			</div>
+			<div class="row">
+				<div class="content col">
+					<img class="icon" src="https://upload.wikimedia.org/wikipedia/zh/8/8a/Sheraton.gif">
+					<h3>喜來登生日餐券</h3>
+					<p>限當天生日者有效</p>
+				</div>
+				<div class="content col">
+					<p>序號：<span>212070707</span></p>
+					<p>有效日期:<span>2020/07/07</span></p>
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>
+```
+
+---
+
+手寫題到此結束，請繼續作答實作題
