@@ -20,11 +20,13 @@ Linux系統操作及維護，virtualbox操作，網路概論，計算機概論
 1. 實做登入系統以及實用的使用者管理
 2. 簡易的OJ系統
 3. 聊天論壇
-（細節請看文件）
+（細節請看文件）  
+[題目在這](./web/README.md)
 ### 伺服器組 ###
 1. 建製一個可用的系統(ubuntu)（虛擬機）
 2. 架設兩個網頁服務再同一台機器（gitlab, OnlineJudge, wiki等等）
-（細節請看文件）
+（細節請看文件）  
+[題目在這](./server/README.md)
 ## 交卷 ##
 筆試答案請寫在一個單一檔案(markdown)中，易讀性列入評分。寄到以下信箱：`simba.fs@gamil.com`，主旨:`NMEM筆試：班級座號姓名`  
 實作答案請放在github上（所以你要有github帳號），必須要有README.md文件，易讀性列入評分。把帳號寄到`simba.fs@gamil.com`，主旨:`NMEM實作：班級座號姓名`
