@@ -16,7 +16,7 @@ Network Manager Entrance Examination
 
 # 分組介紹 #
 ## [網頁組](./web/README.md) ##
-會網頁開發，包括前後端基礎知識、Linux基本檔案操作，未來負責社網製作、OJ前端美化
+會網頁開發，包括前後端基礎知識，未來負責社網製作、OJ前端美化
 
 ## [伺服器組](./server/README.md) ##
 Linux系統操作、virtualbox虛擬機操作、簡單的機器維修能力
