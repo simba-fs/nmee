@@ -23,5 +23,3 @@ tips: 可參考[32nd社網](https://ckcsc.net)和[31st社網](http://mars.cksh.t
 
 
 ---
-
-筆試題到此結束，請繼續作答實作題
