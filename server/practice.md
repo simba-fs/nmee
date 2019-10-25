@@ -22,8 +22,9 @@ tips:這裡你可能需要更改本機的`/ect/hosts`設定（Linux）`C:\WINDOW
 請將VM的網路設定改成NAT，並讓你的電腦本身可以用瀏覽器連到VM內的網站
 
 ### 加分題 ###
-這題需要研究，如果作不出來就先不要嘗試了
-架設一個網頁服務再同一台機器（gitlab, OnlineJudge, wikipedia等），並使用vhost + reverse proxy來達成只使用一個port存取多個網路應用程式（包括你本來的web server）
+這題需要研究，如果作不出來就先不要嘗試了  
+架設一個網頁服務在同一台機器（gitlab, OnlineJudge, wikipedia等）  
+並使用vhost + reverse proxy來達成只使用一個port存取多個網路應用程式（包括你本來的web server）
 
 
 ---
