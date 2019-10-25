@@ -38,7 +38,7 @@ Linux系統操作及維護，virtualbox操作，網路概論，計算機概論
 
 ### [伺服器組](./server/practice.md) ###
 1. 建製一個可用的系統(ubuntu)（虛擬機）
-2. 架設兩個網頁服務再同一台機器（gitlab, OnlineJudge, wiki等等）
+2. 架設兩個網頁服務在同一台機器（gitlab, OnlineJudge, wiki等等）
 （細節請看文件）  
 
 # 交卷 #
