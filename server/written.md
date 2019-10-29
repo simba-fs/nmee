@@ -23,9 +23,9 @@ total 4.0K
 "/etc/apache2/apache2.conf" E212: Can't open file for writing
 Press ENTER or type command to continue
 ```
-原來是他忘記用sudo開啟檔案，但是他不想放強置離開然後再用`sudo vim /etc/apache2/apache2.conf`，請問他該怎麼辦
-11. 如何取得本機IP
-12. 如何新增使用者然後讓他可以使用sudo
+原來是他忘記用sudo開啟檔案，但是他不想放強置離開然後再用`sudo vim /etc/apache2/apache2.conf`，請問他該怎麼辦  
+11. 如何取得本機IP  
+12. 如何新增使用者然後讓他可以使用sudo  
 
 ---
 
