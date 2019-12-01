@@ -9,7 +9,7 @@
 5. 承上題，請列出在校外可連線的port號碼
 6. 承上題，請列出在校內可連線的port號碼
 7. 承上題，請問為何第5題和第6題結果不同？
-8. 請列出三個台灣常見DNS
+8. 請列出兩個台灣常見DNS
 9. 若`user`使用者欲更改檔案`test.txt`，請問他應該怎做
 ```
 user@ckcsc-server:~
@@ -23,7 +23,7 @@ total 4.0K
 "/etc/apache2/apache2.conf" E212: Can't open file for writing
 Press ENTER or type command to continue
 ```
-原來是他忘記用sudo開啟檔案，但是他不想放強置離開然後再用`sudo vim /etc/apache2/apache2.conf`，請問他該怎麼辦  
+原來是他忘記用sudo開啟檔案，請問他該怎麼辦  
 11. 如何取得本機IP  
 12. 如何新增使用者然後讓他可以使用sudo  
 

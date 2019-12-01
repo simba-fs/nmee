@@ -24,7 +24,7 @@ Linux系統操作、virtualbox虛擬機操作、簡單的機器維修能力
 # 出題範圍 #
 ## 筆試篇 ##
 ### [網頁組](./web/written.md) ###
-網頁設計、API互動、網站管理、基本Apache設定（目錄權限等）、登入機制實做
+網頁設計、網站管理
 
 ### [伺服器組](./server/written.md) ###
 Linux系統操作及維護，virtualbox操作，網路概論，計算機概論
