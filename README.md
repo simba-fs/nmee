@@ -42,6 +42,6 @@ Linux系統操作及維護，virtualbox操作，網路概論，計算機概論
 （細節請看文件）  
 
 # 交卷 #
-筆試答案請寫在一個單一檔案(markdown)中，易讀性列入評分。寄到以下信箱：`ckcsc.net@gamil.com`，主旨:`NMEE筆試○○組ˋ：班級座號姓名`  
-實作答案請放在github上（所以你要有github帳號），必須要有README.md文件，易讀性列入評分。把帳號寄到`ckcsc.net@gamil.com`，主旨:`NMEE實作○○組：班級座號姓名`  
+筆試答案請寫在一個單一檔案(markdown)中，易讀性列入評分。寄到以下信箱：`ckcsc.net@gmail.com`，主旨:`NMEE筆試○○組ˋ：班級座號姓名`  
+實作答案請放在github上（所以你要有github帳號），必須要有README.md文件，易讀性列入評分。把帳號寄到`ckcsc.net@gmail.com`，主旨:`NMEE實作○○組：班級座號姓名`  
 markdown語法可參考[這裡](https://markdown.tw)
